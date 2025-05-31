@@ -1,8 +1,6 @@
-import QuantLib as ql
-
-
 #import the Quant Lib
 import QuantLib as ql
+
 
 # Let the today date whenwe want to value a instrument be
 today = ql.Date(15,6,2020)
